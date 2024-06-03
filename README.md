@@ -1,4 +1,5 @@
 # firstproject-demo
 This is my  first  Git Repository.
 <br>
-Author: pri-T
+Author: pri-(lerning git )
+
